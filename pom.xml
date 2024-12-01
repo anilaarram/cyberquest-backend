@@ -12,6 +12,7 @@
 	<artifactId>otp-generation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>otp-generation</name>
+	<packaging>war</packaging>
 	<description>otp generate for leetcode</description>
 	<url/>
 	<licenses>
